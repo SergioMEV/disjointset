@@ -1,4 +1,4 @@
-package pset5;
+package ds;
 
 public class DisjointForestNode<T> {
     private DisjointForestNode<T> parent;
