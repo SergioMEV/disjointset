@@ -1,4 +1,4 @@
-package pset5;
+package ds;
 
 public class DisjointSetTests<T> {
     
